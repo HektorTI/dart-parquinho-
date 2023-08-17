@@ -5,7 +5,7 @@ void main() {
   //...permite que você execute um bloco de código um número fixo de vezes.
 
   int index;
-  for (index = 0; index < 5; index++) {
+  for (index = 0; index < 10; index++) {
     print(index);
   }
 
