@@ -46,7 +46,7 @@ void main() {
     aluno++;
 
     if (aluno == 15) {
-      print('Chegamos ao aluno de numero 15');
+      print('Chegamos ao aluno de número 15');
       verificaQTDAalunos = false;
     } else {
       print('Ainda estamos com $aluno aluno(s)');
